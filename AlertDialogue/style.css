@@ -4,14 +4,14 @@
   --danger-background: #fff5f6;
   --danger-border: #d32f2f;
   --text-color: #093371;
-  --infotext-font-family: 'Roboto';
-  --infotext-font-style: normal,regular;
-  --infotext-font-weight: 500,400;
-  --infotext-font-size: 14px;
-  --dangertext-font-family: 'Roboto';
-  --dangertext-font-style: normal,regular;
-  --dangertext-font-weight: 500,400;
-  --dangertext-font-size: 14px;
+  --info-text-font-family: 'Roboto';
+  --info-text-font-style: normal,regular;
+  --info-text-font-weight: 500,400;
+  --info-text-font-size: 14px;
+  --danger-text-font-family: 'Roboto';
+  --danger-text-font-style: normal,regular;
+  --danger-text-font-weight: 500,400;
+  --danger-text-font-size: 14px;
   --info-icon-background:#093371;
-  --danger-icon-background:#B71C1C
+  --danger-icon-background:#B71C1C;
 }
