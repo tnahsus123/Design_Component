@@ -4,12 +4,14 @@
   --danger-background: #fff5f6;
   --danger-border: #d32f2f;
   --text-color: #093371;
-  --info-font-family: 'Roboto';
-  --info-font-style: normal,regular;
-  --info-font-weight: 500,400;
-  --info-font-size: 14px;
-  --danger-font-family: 'Roboto';
-  --danger-font-style: normal,regular;
-  --danger-font-weight: 500,400;
-  --danger-font-size: 14px;
+  --infotext-font-family: 'Roboto';
+  --infotext-font-style: normal,regular;
+  --infotext-font-weight: 500,400;
+  --infotext-font-size: 14px;
+  --dangertext-font-family: 'Roboto';
+  --dangertext-font-style: normal,regular;
+  --dangertext-font-weight: 500,400;
+  --dangertext-font-size: 14px;
+  --info-icon-background:#093371;
+  --danger-icon-background:#B71C1C
 }
