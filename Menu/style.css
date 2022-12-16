@@ -1,0 +1,28 @@
+:root {
+  --menu-background: #ffffff;
+  --menu-border: #F3F5F7;
+  --primarytext-color: #212934;
+  --secondarytext-color: #B71C1C;
+}
+
+.home{
+  --home-font-family: 'Roboto';
+  --home-font-style: regular;
+  --home-font-weight: 400;
+  --home-font-size: 14px;
+  --home-icon-color:#212934;
+}
+.shop {
+  --shop-font-family: 'Roboto';
+  --shop-font-style: regular;
+  --shop-font-weight: 400;
+  --shop-text-font-size: 14px;
+  --shop-icon-color:#212934;
+}
+.quit {
+  --quit-font-family: 'Roboto';
+  --quit-font-style: regular;
+  --quit-font-weight: 400;
+  --quit-font-size: 14px;
+  --shop-icon-color:#B71C1C;
+}
