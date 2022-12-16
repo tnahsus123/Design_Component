@@ -1,0 +1,18 @@
+:root {
+  --pagination-background:#E8EDF2;
+  --playmusic-icon-background:#2CB354;
+  --primarytext-color:#6E7A8A;
+  --secondarytext-color: #212934;
+  --primarytext-font-family: 'Roboto';
+  --primarytext-font-style: regular;
+  --primarytext-font-weight: 400;
+  --secondarytext-color: #212934;
+  --secondarytext-font-family: 'Roboto';
+  --secondarytext-font-style: regular;
+  --secondarytext-font-weight: 400;
+  --primaryborder-color: #A0ADBA
+  --secondarborder-color: #D5DDE5  
+}
+.icons{
+  --icons-color: #4A5768
+}
