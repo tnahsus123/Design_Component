@@ -1,1 +1,17 @@
+:root {
+  --musicbox-background: #f5fbff;
+  --playmusic-icon-background:#2CB354;
+  --text-color: #093371;
+  --text-font-size: 14px;
+  --text-font-family: 'Roboto';
+  --text-font-style: normal;
+  --text-font-weight: 500;
+}
+.description {
+  --text-font-size: 14px;
+  --text-font-family: 'Roboto';
+  --text-font-style: regular;
+  --text-font-weight: 400;
+}
+
 
