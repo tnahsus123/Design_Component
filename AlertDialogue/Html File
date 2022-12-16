@@ -1,7 +1,0 @@
-Class="NoticeBox1"
-<H1> = Verification
-<P> Please verify your access once again. <P>
-
-Class="NoticeBox2"
-<H2> = Time-Out </H2>
-<P> You have exceeded your time limit. <P>
