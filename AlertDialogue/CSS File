@@ -1,0 +1,68 @@
+/* notice-box1 */
+
+padding: 12px 16px;
+gap: 8px;
+width: 427px;
+height: 76px;
+background: #F5FBFF;
+border: 2px solid #C5E3FC;
+border-radius: 3px;
+
+/* Verification */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: #212934;
+
+/* Please verify your access once again. */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #212934;
+
+
+/* Icon */
+Icon:"MaterialDesignIcons : Info Outline"
+background: #093371;
+
+/* notice-box2 */
+
+padding: 12px 16px;
+gap: 8px;
+
+width: 427px;
+height: 76px;
+
+background: #FFF5F6;
+border: 2px solid #D32F2F;
+border-radius: 3px;
+
+
+/* Time-Out */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: #212934;
+
+/* You have exceeded your time limit. */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #212934;
+
+
+/* Icon */
+Icon:"MaterialDesignIcons : Info"
+background: #D32F2F;
