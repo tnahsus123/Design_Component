@@ -1,0 +1,9 @@
+:root {
+  --selectionBox-background:#FFFFFF;
+  --selectionBox-border: #147CD7;
+  --text-color: #212934
+  --text-font-family: 'Roboto';
+  --text-font-style: regular;
+  --text-font-weight: 400;
+  --text-font-size: 14px;
+}
