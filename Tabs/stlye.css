@@ -1,0 +1,16 @@
+:root {
+  --tab-background:#FFFFFF;
+  --playmusic-icon-background:#2CB354;
+  --text-color: #6E7A8A;
+  --text-font-size: 14px;
+  --text-font-family: 'Roboto';
+  --text-font-style: regular;
+  --text-font-weight: 400;
+}
+.selectedText {
+  --text-color: #1565C0
+  --text-font-size: 14px;
+  --text-font-family: 'Roboto';
+  --text-font-style: regular;
+  --text-font-weight: 400;
+}
